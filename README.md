@@ -6,7 +6,7 @@ Django DRF+Vue.jsを使用したTrello likeなAppのサンプル。
 DRF+Vue Trello like app sample for educational purposes
 
 ## Demo
-
+![](demo.gif)
 
 
 
